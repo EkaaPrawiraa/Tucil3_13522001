@@ -1,4 +1,5 @@
 public class Node {
+    // Class untuk membuat node
     String word;
     int cost;
     Node prev;
